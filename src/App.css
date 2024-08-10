@@ -1,0 +1,43 @@
+
+.App {
+  font-family:fantasy;
+  padding: 10px;
+  letter-spacing: 2px;
+  background: linear-gradient(to right, #cbe882, #f0b384); 
+  
+  
+}
+.App h1{
+  text-align: center;
+  color: #333333;
+  letter-spacing: 3px;
+}
+
+.review-list {
+  margin-top: 20px;
+}
+
+.review-item {
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background: linear-gradient(to right, #88d5ee, #f0b384);
+  font-family: cursive;
+}
+
+.tooltip-wrapper {
+  position: relative;
+  cursor: pointer;
+}
+
+.tooltip {
+  position: absolute;
+  top: -25px;
+  left: 0;
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 12px;
+  white-space: nowrap;
+}
