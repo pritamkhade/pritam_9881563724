@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+It creates a React application that performs a review sentiment analysis. The application highlights specific parts of a review based on their sentiment (positive or negative) and displays a tooltip with sentiment information when hovering over the highlighted text. The provided code includes components for rendering the review list, highlighting text, and showing tooltips, along with associated CSS for styling the application with a modern, responsive design.
