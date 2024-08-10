@@ -1,1 +1,2 @@
 It creates a React application that performs a review sentiment analysis. The application highlights specific parts of a review based on their sentiment (positive or negative) and displays a tooltip with sentiment information when hovering over the highlighted text. The provided code includes components for rendering the review list, highlighting text, and showing tooltips, along with associated CSS for styling the application with a modern, responsive design.
+UI IS https://github.com/pritamkhade/pritam_9881563724/blob/main/ui-output.png
